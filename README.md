@@ -3,4 +3,4 @@
 # step 1
 maven { url "https://github.com/zy841336855/mengsdk/raw/master" }
 # step 2
-implementation 'com.toomee.mengplus:mengSDK:1.0.1'
+implementation 'com.toomee:mengSDK:1.0.1'
