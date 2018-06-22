@@ -3,7 +3,7 @@
   <groupId>com.toomee</groupId>
   <artifactId>mengSDK</artifactId>
   <versioning>
-    <release>0.0.126</release>
+    <release>1.0.8</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.3</version>
@@ -15,7 +15,8 @@
       <version>0.0.124</version>
       <version>0.0.125</version>
       <version>0.0.126</version>
+      <version>1.0.8</version>
     </versions>
-    <lastUpdated>20180622031647</lastUpdated>
+    <lastUpdated>20180622052825</lastUpdated>
   </versioning>
 </metadata>
